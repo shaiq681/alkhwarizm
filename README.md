@@ -22,7 +22,7 @@ Please make sure that **.Renvironment** does not have GITHUB_PAT by default. Ref
 ## Team Members
 
 - Member 1:
-  - Name: Shahrukh Buland Iqbal
+  - Name: Shahrukh Iqbal
   - LiU ID: shaiq681
   - Github Name : [shaiq681](https://github.com/shaiq681)
 - Member 2:
