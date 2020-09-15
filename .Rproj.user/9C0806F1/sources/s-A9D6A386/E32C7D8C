@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600161021149.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E32C7D8C",
+    "lastKnownWriteTime" : 1600182678,
+    "last_content_update" : 1600182678230,
+    "path" : "~/alkhwarizm/R/dijkstra.R",
+    "project_path" : "R/dijkstra.R",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

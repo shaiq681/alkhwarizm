@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600159578534.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B284EC34",
+    "lastKnownWriteTime" : 1600160996,
+    "last_content_update" : 1600160996396,
+    "path" : "~/alkhwarizm/R/euclidean.R",
+    "project_path" : "R/euclidean.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

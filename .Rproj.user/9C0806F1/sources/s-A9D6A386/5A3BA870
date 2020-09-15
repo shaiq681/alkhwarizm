@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600160783608.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3575262615",
+    "id" : "5A3BA870",
+    "lastKnownWriteTime" : 1600160966,
+    "last_content_update" : 1600160966757,
+    "path" : "~/alkhwarizm/tests/testthat/test-euclidean.R",
+    "project_path" : "tests/testthat/test-euclidean.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

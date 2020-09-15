@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600161069150.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "96D92595",
+    "lastKnownWriteTime" : 1600161106,
+    "last_content_update" : 1600161106765,
+    "path" : "~/alkhwarizm/tests/testthat/test-dijkstra.R",
+    "project_path" : "tests/testthat/test-dijkstra.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

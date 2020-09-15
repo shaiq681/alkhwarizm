@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600161514827.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2453170202",
+    "id" : "439497FF",
+    "lastKnownWriteTime" : 1600161523,
+    "last_content_update" : 1600161523088,
+    "path" : "~/alkhwarizm/R/alkhwarizm.R",
+    "project_path" : "R/alkhwarizm.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

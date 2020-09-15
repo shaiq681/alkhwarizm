@@ -1,0 +1,17 @@
+Package: alkhwarizm
+Title: An implementation of Euclidean and Dijkhstra Algorithm
+Version: 1.0.0
+Date: 2020-09-15
+Authors@R: c(person("Shahrukh","Iqbal", email = "shaiq681@student.liu.se", role = c("aut", "cre")),
+    person("Mowniesh", "Asokan", email = "mowas455@student.liu.se", role = c("aut")))
+Description: Implementation of Dijkstra and Euclidean Algorithm.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: https://github.com/shaiq681/alkhwarizm
+BugReports: https://github.com/shaiq681/alkhwarizm/issues
+Suggests: 
+    testthat
+Depends: 
+    R (>= 2.10)

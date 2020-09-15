@@ -1,0 +1,60 @@
+library(usethis)
+library(devtools)
+
+
+
+#create_package("alkhwarizm")
+
+
+use_r('euclidean')
+
+use_r('dijkstra')
+use_r('alkhwarizm')
+
+use_r('data')
+
+# Create Test Repo
+use_testthat()
+
+# Create Test
+use_test('euclidean')
+use_test('dijkstra')
+
+# Create Data
+use_da
+
+devtools::document()
+
+wiki_graph <-
+  data.frame(v1=c(1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,6),
+             v2=c(2,3,6,1,3,4,1,2,4,6,2,3,5,4,6,1,3,5),
+             w=c(7,9,14,7,10,15,9,10,11,2,15,11,6,6,9,14,2,9))
+
+# Create data folder
+usethis::use_data(wiki_graph,internal = FALSE)
+
+# Create data documentation
+usethis::use_data_raw(name = "wiki_graph")
+
+document()
+
+search()
+
+
+use_git(message = "Initial commit")
+
+use_github()
+
+
+library(alkhwarizm)
+
+euclidean(10,100)
+
+getwd()
+
+
+use_git_config(user.name = "Shahrukh Buland Iqbal", user.email = "shaiq681@student.liu.se")
+
+browse_github_token()
+
+use_github()
