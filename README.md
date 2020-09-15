@@ -11,6 +11,8 @@ The current package holds implementation of [Euclidean's sieve Algorithm](https:
 ```r
 devtools::install_github("shaiq681/alkhwarizm")
 ```
+### Installation Notes
+Please make sure that **.Renvironment** does not have GITHUB_PAT by default. Refer [Issue](https://github.com/r-lib/devtools/issues/1566)
 
 ## Usage
 
