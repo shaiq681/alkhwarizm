@@ -15,4 +15,4 @@ devtools::install_github("shaiq681/alkhwarizm")
 ## Usage
 
 - The Library uses the function `euclidean()` to find the Greatest Common Divisor between two Integers. 
-- The Library uses the function 'dijkstra()' to find the shortest path between a single node and its neighbours.
+- The Library uses the function `dijkstra()` to find the shortest path between a single node and its neighbours.
