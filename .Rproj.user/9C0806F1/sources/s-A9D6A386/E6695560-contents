@@ -53,7 +53,7 @@ euclidean(10,100)
 getwd()
 
 
-use_git_config(user.name = "Shahrukh Buland Iqbal", user.email = "shaiq681@student.liu.se")
+use_git_config(user.name = "", user.email = "")
 
 browse_github_token()
 
